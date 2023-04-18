@@ -4,7 +4,7 @@
     <router-link to="/about">About</router-link>|
       <router-link to="/login">Login</router-link>
   </nav>
-
+<!--写一个按钮-->
 
   <router-view/>
 </template>
